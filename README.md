@@ -2,7 +2,7 @@
 *Repository of some Matlab scripts I have written. These include project-specific scripts and more general tools that I use regularly.*
 
 ## FBP-pipeline.m
-Script to process Florbetapir-PET scans from nii frames to SUVR. Adapted from a defunct Python script for Matlab with original features added.
+Processing pipeline to convert Florbetapir-PET scans from individual frames to SUVR image. Adapted from a defunct Python script for Matlab with original features added.
 
 ## affine-transform.m
 Custom version of an existing script to affine warp PET scans via their respective MRI.
